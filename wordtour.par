@@ -1,0 +1,5 @@
+PROBLEM_FILE = wordtour.tsp
+PATCHING_C = 3
+PATCHING_A = 2
+RUNS = 1
+OUTPUT_TOUR_FILE = wordtour.out

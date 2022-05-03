@@ -1,0 +1,17 @@
+*
+
+!*/
+!*.py
+!*.cpp
+!*.sh
+!makefile
+!.gitignore
+!wordtour.txt
+!order_pca1.txt
+!order_pca4.txt
+!order_randproj.txt
+!wordtour.par
+!README.md
+!requirements.txt
+!imgs/user_study.png
+!imgs/illust.png
