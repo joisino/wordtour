@@ -2,6 +2,8 @@
 
 We proposed one-dimensional word embeddings.
 
+Paper: https://arxiv.org/abs/2205.01954
+
 ![Illustration](./imgs/illust.png)
 
 ## 💡 How to Use
