@@ -1,4 +1,4 @@
-# Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem
+# Word Tour: One-dimensional Word Embeddings via the Traveling Salesman Problem (NAACL 2022)
 
 We proposed one-dimensional word embeddings.
 
