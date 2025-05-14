@@ -7,6 +7,8 @@
 !makefile
 !.gitignore
 !wordtour.txt
+!wordtour_opt.txt
+!wordtour.236873285.tour
 !order_pca1.txt
 !order_pca4.txt
 !order_randproj.txt
